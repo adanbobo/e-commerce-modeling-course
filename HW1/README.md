@@ -2,7 +2,7 @@
 
 This repository contains my solution for **Homework 1** in the course
 **"Models for Electronic Commerce"**.
-
+GRADE: 99
 ---
 
 ##  Project Overview
